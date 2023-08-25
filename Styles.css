@@ -1,5 +1,10 @@
 /* "div" is a selector indicating that all the div elements */
 /* in the document will be styled by that rule */
 div {
-    /* The property "color" with the value " */
+    /* The property "color" with the value "black" indicates */
+    /* that the text will have the color "black" */
+    color: yellow;
+    /* The property "background-color" with the value "white" indicates */
+    /* that the background color of the elements will be white */
+    background-color: black;
 }
